@@ -1,4 +1,4 @@
-# pestpp-aws
+# pestpp-aws-example
 
 This repository contains a containerized Pest++ application intended for deployment on AWS using Linux. It runs the `sagehen_mf6 model` and is provided for demonstration and testing purposes only; it is not intended for production use.
 
