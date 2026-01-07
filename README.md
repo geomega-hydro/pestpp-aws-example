@@ -2,8 +2,6 @@
 
 This repository contains a containerized Pest++ application intended for deployment on AWS using Linux. It runs the `sagehen_mf6 model` and is provided for demonstration and testing purposes only; it is not intended for production use.
 
-![AWS Groundwater Modeling](./diagram/AWS_Groundwater_Modeling.jpg)
-
 ## 📋 Initial Requirements
 
 Ensure you have the following installed:
