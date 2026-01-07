@@ -71,6 +71,7 @@ Follow these steps to deploy Pest++ to AWS:
 
 2. **Deploy AWS Architecture Using Terraform**
    - Enter into the terraform directory `cd terraform`
+   - Run `terraform init`
    - Run `terraform apply`  
 
 3. **Submit Pest++ to AWS Batch**
