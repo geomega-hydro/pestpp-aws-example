@@ -1,0 +1,5 @@
+,org_file,model_file,use_cols,index_cols,fmt,sep,head_rows,upper_bound,lower_bound,operator,mlt_file,zone_file,zero_based
+0,org\kh1.txt,kh1.txt,,,%7.3F,,0,1.0,0.001,m,mult\kh1gr_inst0_grid.csv,kh1gr_inst0_grid.csv.zone,False
+1,org\kv1.txt,kv1.txt,,,%7.3F,,0,1.0,0.001,m,mult\kv1gr_inst0_grid.csv,kv1gr_inst0_grid.csv.zone,False
+2,org\sy1.txt,sy1.txt,,,%6.2F,,0,0.5,0.01,m,mult\sy1gr_inst0_grid.csv,sy1gr_inst0_grid.csv.zone,False
+3,org\strt1.txt,strt1.txt,,, %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F %5.0F,,0,0.0,8000.0,m,mult\strt1gr_inst0_grid.csv,strt1gr_inst0_grid.csv.zone,False
