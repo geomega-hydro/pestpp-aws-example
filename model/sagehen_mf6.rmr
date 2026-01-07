@@ -1,9 +1,0 @@
-
-PANTHER master listening on socket:0.0.0.0:4004 (IPv4)
-running model 3 times
-11/13/25 11:33:24->waiting for agents to appear
-
-11/13/25 11:33:27->new connection from:pestpp-worker-1.docker_pestpp-network:54382
-11/13/25 11:33:27->initializing new agent connection from:pestpp-worker-1.docker_pestpp-network$/pestpp/model/worker-1 socket:pestpp-worker-1.docker_pestpp-network:54382 number of agents:1
-11/13/25 11:33:27->new agent ready:pestpp-worker-1.docker_pestpp-network$/pestpp/model/worker-1 socket:pestpp-worker-1.docker_pestpp-network:54382
-11/13/25 11:33:27->Sending run_id:0 to:pestpp-worker-1.docker_pestpp-network$/pestpp/model/worker-1 group_id:2  concurrent:1)
